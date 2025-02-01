@@ -14,7 +14,7 @@ Make sure you have Node.js and MongoDB installed.
 
 Clone the Repository:
 
-git clone https://github.com/Mahima9/bharatfd.git
+git clone https://github.com/MahimaDuggal9/bharatfd
 cd bharatfd
 Install Dependencies: Install all required packages:
 
